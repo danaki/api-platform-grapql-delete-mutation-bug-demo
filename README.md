@@ -1,5 +1,2 @@
-# API
 
-The API will be here.
-
-Refer to the [Getting Started Guide](https://api-platform.com/docs/distribution) for more information.
+[API Plaform issue #6432]([https://api-platform.com/docs/distribution](https://github.com/api-platform/core/issues/6432))
